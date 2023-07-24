@@ -1,7 +1,7 @@
 package logica;
 
 public class Fachada {
-	hola
+	int a=0;
 	
 	
 }
